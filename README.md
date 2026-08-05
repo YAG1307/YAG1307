@@ -15,7 +15,7 @@ Reach out or connect with me through my main socials below!
 - baby_pluto888 on discord
 - itchi.io as Yasani
   
-# Recent Projects ❤️
+# Highlight Projects 🔥
 
 * **Fire Pong**, a playable arcade game prototype built in Unity. Small twist when ball accelerates in speed.
 
