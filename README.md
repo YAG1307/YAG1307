@@ -10,7 +10,7 @@ Outside of coding, I'm into writing, traditional sketching, and learning about w
 
 📫 How to reach me:                                                                                                                                                           
  * Discord: baby_pluto888
-*  itch.io: Yasani
+*  itch.io: Yasani (https://yasani.itch.io/)
 
 # Highlight Projects 🔥
 
