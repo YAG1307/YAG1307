@@ -1,22 +1,17 @@
-# Hello ALL 🌩️:
+# Hello ALL 🌩️
 
-Hello visitor! I go by many names, but I am better known as **YAG**! I make games in Unity and am currently learning to build software projects involving C++ and Python. 
+Hey there! I go by a few names, but most people call me **YAG**. I build games in Unity and experiment with software tools in C++ and Python.
 
 # Who I am 🧐
 
-I'm a programmer working with Unity (C#), Python, and C++. I build games, work on local C++ tools, and practice honing my skills as a new developer. 
+I'm a developer working mostly with C#, C++, and Python. Right now, I'm focused on making games, building local C++ tools, and getting better at programming every day. [insert project]
 
-I enjoy writing and drawing as well as learning more about religions. I hope to expand on my skills throughout my journey as a programmer and utilize these assets.
-
-Reach out or connect with me through my main socials below!
-
+Outside of coding, I'm into writing, traditional sketching, and learning about world religions. As I keep growing as a dev, I want to keep building cooler projects, sharpening my skills, and meeting other creators along the way.
 
 📫 How to reach me:
-- baby_pluto888 on discord
-- itchi.io as Yasani
-  
+* **Discord:** baby_pluto888
+* **itch.io:** Yasani
+
 # Highlight Projects 🔥
 
-* **Fire Pong**, a playable arcade game prototype built in Unity. Small twist when ball accelerates in speed.
-
-
+* **Fire Pong** — A 2D arcade prototype made in Unity featuring a speed-acceleration mechanic.
