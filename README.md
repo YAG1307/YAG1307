@@ -9,9 +9,9 @@ I'm a developer working mostly with C#, C++, and Python. Right now, I'm focused 
 Outside of coding, I'm into writing, traditional sketching, and learning about world religions. As I keep growing as a dev, I want to keep building cooler projects, sharpening my skills, and meeting other creators along the way.
 
 📫 How to reach me:                                                                                                                                                           
- **Discord:** baby_pluto888
- **itch.io:** Yasani
+ * Discord: baby_pluto888
+*  itch.io: Yasani
 
 # Highlight Projects 🔥
 
-* **Fire Pong**:  A 2D arcade prototype made in Unity featuring a speed-acceleration mechanic and fire mode.
+ Fire Pong:  A 2D arcade prototype made in Unity featuring a speed-acceleration mechanic and fire mode.
