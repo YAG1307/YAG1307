@@ -17,6 +17,6 @@ Reach out or connect with me through my main socials below!
   
 # Recent Projects ❤️
 
-* **Fire Pong**, a playable arcade game prototype built in Unity.
+* **Fire Pong**, a playable arcade game prototype built in Unity. Small twist when ball accelerates in speed.
 
 
