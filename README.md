@@ -7,7 +7,7 @@ Outside of coding, I'm into writing, digital and physical drawing, and learning 
 
 📫 How to reach me:                                                                                                                                                           
 * Discord: baby_pluto888
-* itch.io: Yasani (https://yasani.itch.io/)
+* itch.io: YAG (https://YAG1307.itch.io/)
 
 # Highlight Projects
 
