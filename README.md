@@ -1,4 +1,4 @@
-# Hello ALL 🌩️
+# Hello 🌩️
 
 Hey there! I go by a few names, but most people call me **YAG**. I build games in Unity and experiment with software tools in C++ and Python. Welcome to my personal dev log and project archive!
 
