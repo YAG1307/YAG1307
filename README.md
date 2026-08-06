@@ -14,4 +14,3 @@ Outside of coding, I'm into writing, digital and physical drawing, and learning 
 
 # Highlight Projects 
 
- Fire Pong:  A 2D arcade prototype made in Unity featuring a speed-acceleration mechanic and fire mode.
