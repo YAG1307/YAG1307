@@ -11,4 +11,5 @@ Outside of coding, I'm into writing, digital and physical drawing, and learning 
 
 # Highlight Projects
 
- * Unity GridCreator Tool: A Unity level editor tool used to paint objects on grid with prefabs, can change object color or erase objects. [GridCreator Tool (https://github.com/YAG1307/Unity-GridCreator-Tool)
+ * Unity GridCreator Tool: A Unity level editor tool used to paint objects on grid with prefabs, can change object color or erase objects.
+   (https://github.com/YAG1307/Unity-GridCreator-Tool)
