@@ -1,9 +1,10 @@
 # Hello, I am YAG 🌩️
 
-Hey there! It's me, YAG. Welcome to my Portfolio. I'm a developer working mostly with C#, C++, and Python. I am focused on making games, building C++/Python tools, and sharpening my skills to keep growing.
+Hey there! It's me, YAG. Welcome to my Portfolio. I'm a developer working mostly with C#, C++, and Python. I am focused on making games, building C++/Python tools, and growing as a coder and a person.
 
 #  About Me 🧐
-Outside of coding, I'm into writing, digital and physical drawing, and learning about world religions. As I keep growing as a dev, I want to keep building cooler projects, sharpening my skills, and meeting other creators along the way.
+
+Outside of coding, I'm into writing, digital and physical drawing, and learning about world religions. As I keep growing as a developer, I want to keep building cooler projects and sharpen my skills!
 
 📫 How to reach me:                                                                                                                                                           
 * Discord: baby_pluto888
