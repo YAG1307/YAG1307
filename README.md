@@ -14,7 +14,7 @@ Outside of coding, I'm into writing, digital and physical drawing, and learning 
 
 # Highlight Projects
 
- * Unity GridCreator Tool: A Unity level-editor tool for painting prefab objects onto a grid, with support for changing object colors and erasing objects.
+ * Unity GridCreator Tool: A Unity level-editor tool for painting prefab objects onto a grid, with support for changing object colors and erasing objects.                     
 (https://github.com/YAG1307/Unity-GridCreator-Tool)
 * C++ to Python pathfinder: A C++ A* pathfinding extension exposed to Python through pybind11.
 (https://github.com/YAG1307/cpp-python-pathfinder)
