@@ -1,6 +1,6 @@
 # Hello, I am YAG 🌩️
 
-Hey, I am YAG! I'm a developer working mostly with Unity (C#), C++, and Python. I am focused on making games, building C++/Python tools, and growing as a coder and a person.
+Hey, I am YAG! I'm a developer working mostly with Unity (C#), C++, and Python. I am focused on making games, building C++/Python tools, and growing as a coder and person.
 
 #  About Me 🧐
 
