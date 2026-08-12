@@ -4,7 +4,7 @@ Hey, I am YAG! I'm a developer working mostly with Unity (C#), C++, and Python. 
 
 #  About Me 🧐
 
-Currently I am learning game development with Unity (C#).
+Currently, I am learning game development with Unity (C#).
 
 Outside of coding, I'm into writing, digital and physical drawing, and learning about religion and science. As I keep growing as a developer, I want to keep building better projects and sharpening my skills. 
 
@@ -16,5 +16,5 @@ Outside of coding, I'm into writing, digital and physical drawing, and learning 
 
  * Unity GridCreator Tool: A Unity level-editor tool for painting prefab objects onto a grid, with support for changing object colors and erasing objects.                     
 (https://github.com/YAG1307/Unity-GridCreator-Tool)
-* C++ to Python pathfinder: A C++ A* pathfinding extension exposed to Python through pybind11.                                 
+* C++/Python pathfinder: A C++ A* pathfinding extension exposed to Python through pybind11.                                 
 (https://github.com/YAG1307/cpp-python-pathfinder)
