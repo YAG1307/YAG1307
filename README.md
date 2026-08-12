@@ -6,7 +6,7 @@ Hey there! It's me, YAG. Welcome to my Portfolio. I'm a developer working mostly
 
 Outside of coding, I'm into writing, digital and physical drawing, and learning about religion or science. As I keep growing as a developer, I want to keep building cooler projects and sharpen my skills!
 
-📫 How to reach me:                                                                                                                                                           
+ How to reach me:                                                                                                                                                           
 * Discord: baby_pluto888
 * itch.io: YAG (https://YAG1307.itch.io/)
 
