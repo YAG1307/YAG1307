@@ -8,8 +8,7 @@ Currently, I am learning game development with Unity (C#), focusing on gameplay 
 
 Outside of coding, I'm into writing, digital and physical drawing, and learning about religion and science. As I keep growing as a developer, I want to keep building better projects and sharpening my skills. 
 
- How to reach me:                                                                                                                                                           
-* Discord: baby_pluto888
+How To Reach Me:                                                                                                                                                           
 * itch.io: YAG (https://YAG1307.itch.io/)
 
 # Highlight Projects
