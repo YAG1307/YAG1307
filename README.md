@@ -17,5 +17,5 @@ How To Reach Me:
 (https://github.com/YAG1307/Take-The-King)
 * C++/Python pathfinder: A C++ A* pathfinding extension exposed to Python through pybind11.                                 
 (https://github.com/YAG1307/cpp-python-pathfinder)
-* Vi's Revenge: A fast-paced roguelike about a girl storming a monster-run building with a declining health bar. Built for 2026 DYWJ (Do You Wanna Jam?!) Developed in Unity C#                                                              
+* Vi's Revenge: A fast-paced roguelike about a girl storming a monster-run building with a declining health bar. Built for 2026 DYWJ (Do You Wanna Jam?!) Developed in Unity C#.                                                              
 (https://github.com/YAG1307/Vis-Revenge)
