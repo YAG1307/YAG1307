@@ -13,10 +13,9 @@ How To Reach Me:
 
 # Highlight Projects
 
- * Unity GridCreator Tool: A Unity level-editor tool for painting prefab objects onto a grid, with support for changing object colors and erasing objects.                     
-(https://github.com/YAG1307/Unity-GridCreator-Tool)
+ * Take The King: Take the King is a short chess puzzle game developed in Unity. Complete 5x5 chess puzzles in 3 moves or less.      
+(https://github.com/YAG1307/Take-The-King)
 * C++/Python pathfinder: A C++ A* pathfinding extension exposed to Python through pybind11.                                 
 (https://github.com/YAG1307/cpp-python-pathfinder)
-
-* Vi's Revenge: A fast-paced roguelike about a girl storming a monster-run building with a declining health bar. Built for 2026 DYWJ (Do You Wanna Jam?!)                                                                                            
+* Vi's Revenge: A fast-paced roguelike about a girl storming a monster-run building with a declining health bar. Built for 2026 DYWJ (Do You Wanna Jam?!) Developed in Unity C#                                                              
 (https://github.com/YAG1307/Vis-Revenge)
